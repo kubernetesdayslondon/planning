@@ -1,8 +1,9 @@
 # Meeting notes
 
 ## 18 October 2019
-Attendees: Cheryl, Chris Blum, Jennifer Davies
+Attendees: Cheryl Hung, Chris Blum, Jennifer Davies
 
+* Kubenetes Days Amsterdam used a professional events organiser and it worked well for them
 * We'll need to register for Eventbrite ourselves
 * CNCF will share Sched account closer to the date
 * CNCF is evaluating tools to manage the CfP
